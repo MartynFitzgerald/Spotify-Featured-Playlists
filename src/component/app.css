@@ -1,0 +1,9 @@
+.main {
+  margin: 0;
+  background-image: url(https://wallpapercave.com/wp/wp2729921.gif);
+  height: 100%;
+}
+#root, body, html {
+  height: 101%;
+  margin: 0;
+}

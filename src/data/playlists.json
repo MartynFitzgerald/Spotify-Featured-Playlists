@@ -1,0 +1,373 @@
+{
+    "message": "Wednesday evening lists...",
+    "playlists": {
+      "href": "https://api.spotify.com/v1/browse/featured-playlists?country=GB&timestamp=2020-10-07T20%3A13%3A26&offset=0&limit=20&token=BQDrEYR0K0GwyiI2wp1aeAAnfselyTjNzMe_kS8BYYcL55kp-lm2EfBc4vfN7kxVYqfUmwaUhqmTHm6KeofcOWpc28N--zZuhCzbsCMKI5xZ-vwkvahQkivM6r5Cxfo1QY8ayjG0bbwJqkQ",
+      "items": [
+        {
+          "collaborative": false,
+          "description": "Taking it down a notch and keeping the vibes on ice...",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1IeqVkK7Ebc"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1IeqVkK7Ebc",
+          "id": "37i9dQZF1DX1IeqVkK7Ebc",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f00000003cc4c6f9066441e2212403cc1",
+              "width": null
+            }
+          ],
+          "name": "Chilled Pop Hits",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwMjEwMTU2MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1IeqVkK7Ebc/tracks",
+            "total": 80
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DX1IeqVkK7Ebc"
+        },
+        {
+          "collaborative": false,
+          "description": "The best from Britain's vibrant scene. Cover: Nubya Garcia",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbHcQpOiXk1D",
+          "id": "37i9dQZF1DXbHcQpOiXk1D",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f00000003fc45d709426547481f9d71b3",
+              "width": null
+            }
+          ],
+          "name": "Jazz UK",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwMjEwMTYwMywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbHcQpOiXk1D/tracks",
+            "total": 75
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DXbHcQpOiXk1D"
+        },
+        {
+          "collaborative": false,
+          "description": "The best in Afro Bashment, Afro Swing and all that good stuff. Cover: Drigyy",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdeMORbC1XNa"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdeMORbC1XNa",
+          "id": "37i9dQZF1DXdeMORbC1XNa",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f00000003f7a5efc7b9fb6f2d36b345a4",
+              "width": null
+            }
+          ],
+          "name": "Afro Bashment",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwMTY0MzIyOCwwMDAwMDFhNzAwMDAwMTc0ZTk2MDJjYTMwMDAwMDE3NGM1MzQ0YTc3",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdeMORbC1XNa/tracks",
+            "total": 66
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DXdeMORbC1XNa"
+        },
+        {
+          "collaborative": false,
+          "description": "Indie folk songs to help your worries get lost in the woods.",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWYm3dUe8iSaq"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWYm3dUe8iSaq",
+          "id": "37i9dQZF1DWYm3dUe8iSaq",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f00000003ab9f1c2cea3507840710a314",
+              "width": null
+            }
+          ],
+          "name": "Lost In The Woods",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTU5OTIyNzcxNSwwMDAwMDA0ZDAwMDAwMTc0NTk2NjYwMWYwMDAwMDE3MTUwNmMxNGQ4",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWYm3dUe8iSaq/tracks",
+            "total": 80
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DWYm3dUe8iSaq"
+        },
+        {
+          "collaborative": false,
+          "description": "Dance tunes of the moment from your favourite artists, right here. Cover: Disciples",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7364T8tu1TH"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7364T8tu1TH",
+          "id": "37i9dQZF1DX7364T8tu1TH",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f00000003bb65ede7c7c054884469cc00",
+              "width": null
+            }
+          ],
+          "name": "The Dance List",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwMTYzMjI2MSwwMDAwMDA3ZTAwMDAwMTc0ZThiOGQ2MTgwMDAwMDE3NGU4OWY1OGYw",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7364T8tu1TH/tracks",
+            "total": 57
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DX7364T8tu1TH"
+        },
+        {
+          "collaborative": false,
+          "description": "New tunes from Ireland for your discovery. Cover: Denise Chaila",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcvmeS1jhCQv",
+          "id": "37i9dQZF1DXcvmeS1jhCQv",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f000000038c95c02a100b6c1fb9276889",
+              "width": null
+            }
+          ],
+          "name": "A Breath of Fresh Éire",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwMTY0MTUzMiwwMDAwMDA2ZjAwMDAwMTc0ZTk0NjRlMGQwMDAwMDE3NGU5NDUyNWY5",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcvmeS1jhCQv/tracks",
+            "total": 80
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DXcvmeS1jhCQv"
+        },
+        {
+          "collaborative": false,
+          "description": "Celebrating the biggest UK house bangers. Updated regularly. Cover: Paul Woolford & Secondcity",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSrVdvTl1tVY",
+          "id": "37i9dQZF1DWSrVdvTl1tVY",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f000000039a3fe5b46e2bfd5772ba4a01",
+              "width": null
+            }
+          ],
+          "name": "UK House Music",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwMTYyNzIxNiwwMDAwMDEwMjAwMDAwMTc0ZTg2YmQ4YjQwMDAwMDE3NGU1NTkzNjE4",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSrVdvTl1tVY/tracks",
+            "total": 64
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DWSrVdvTl1tVY"
+        },
+        {
+          "collaborative": false,
+          "description": "Laid-back versions of your favourite songs. Cover: Taylor Swift",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWX3xqQKu0Sgn"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWX3xqQKu0Sgn",
+          "id": "37i9dQZF1DWX3xqQKu0Sgn",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f0000000376047f258c76715bf80d2047",
+              "width": null
+            }
+          ],
+          "name": "Pop Acoustic",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTU5NjIxNDAzMiwwMDAwMDA1MjAwMDAwMTczYTVjNTM4ZDEwMDAwMDE3M2E1YzUwNTA0",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWX3xqQKu0Sgn/tracks",
+            "total": 62
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DWX3xqQKu0Sgn"
+        },
+        {
+          "collaborative": false,
+          "description": "Unwind to these easy classics from the 2010s...",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7udthHrZCWz"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7udthHrZCWz",
+          "id": "37i9dQZF1DX7udthHrZCWz",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f00000003dcaaf86e5fac7261351ba01c",
+              "width": null
+            }
+          ],
+          "name": "Easy 10s",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwMjEwMTYwMiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7udthHrZCWz/tracks",
+            "total": 80
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DX7udthHrZCWz"
+        },
+        {
+          "collaborative": false,
+          "description": "Kick back, relax & feel lifted.",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2qBJch9g3qw"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2qBJch9g3qw",
+          "id": "37i9dQZF1DX2qBJch9g3qw",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f000000032ed1e41f042121f2bd1ee9ee",
+              "width": null
+            }
+          ],
+          "name": "dazed",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwMjEwMTU4OSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2qBJch9g3qw/tracks",
+            "total": 80
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DX2qBJch9g3qw"
+        }
+      ],
+      "limit": 20,
+      "next": null,
+      "offset": 0,
+      "previous": null,
+      "total": 10
+    }
+  }

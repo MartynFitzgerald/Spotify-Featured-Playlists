@@ -1,0 +1,24 @@
+.component-playlist {
+  padding-left: 15px;
+  padding-right: 15px;
+  position: relative;
+  font-weight: normal;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 32px;
+  text-align: center;
+  color: #fff;
+}
+.component-playlist img {
+  cursor: pointer;
+}
+.component-tableContainer {
+  position: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  min-width: 650px;
+  max-width: 1250px;
+}
+.component-table {
+  position: relative;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
