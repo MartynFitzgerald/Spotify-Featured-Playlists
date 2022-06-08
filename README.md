@@ -35,8 +35,9 @@ npm install
 npm start
 ```
 6. Open http://localhost:3000
+## Images Of Project
 
-## Time Log
-
-* 9.15am - 11.15am 8th October 2020
-* 12.00am - 15.00 8th October 2020
+<div>
+  <img src="Images/Image1.png"/>
+  <img src="Images/Image2.png"/>
+</div>
