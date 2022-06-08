@@ -9,12 +9,12 @@
   color: #fff;
 }
 .classes-card {
-  max-width: 315px;
-  margin-left: 5px;
-  margin-right: 5px;
+  max-width: 425px;
+  margin-left: 10px;
+  margin-right: 10px;
   margin-bottom: 5px;
 }
 .classes-media {
-  height: 315px;
-  width: 315px;
+  height: 425px;
+  width: 425px;
 }

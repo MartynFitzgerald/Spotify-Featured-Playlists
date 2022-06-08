@@ -9,7 +9,7 @@ export default class Library extends React.Component {
 
     return (
       <div className="component-playlist">
-        <Grid container item xs={12} direction="row" justify="space-around" alignItems="flex-start">
+        <Grid container item xs={12} direction="row" justifyContent="space-around" alignItems="flex-start">
           {
             playlists.map((playlist, index) => {
               return (
@@ -21,7 +21,7 @@ export default class Library extends React.Component {
                       <Typography gutterBottom variant="h5" component="h2">
                         {playlist.name}
                       </Typography>
-                      <Typography variant="body2" color="textSecondary" component="p">
+                      <Typography style={{ height: 50 }} variant="body2" color="textSecondary" component="p">
                         {playlist.description}
                       </Typography>
                     </CardContent>

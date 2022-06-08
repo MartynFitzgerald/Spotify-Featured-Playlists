@@ -22,11 +22,11 @@ export default class Header extends React.Component {
   render() {
     return (
       <div className="component-header">
-        <Grid container item xs={12} direction="row" justify="space-between" alignItems="center">
+        <Grid container item xs={12} direction="row" justifyContent="space-between" alignItems="center">
           <Link className="component-link" to="/">
             <img
               //https://www.flaticon.com/free-icon/spotify_2111624?term=2111624&page=1&position=1
-              src="//www.flaticon.com/svg/static/icons/svg/2111/2111624.svg"
+              src={process.env.PUBLIC_URL + `/logo512.png`}
               width="32"
               height="32"
               alt=""

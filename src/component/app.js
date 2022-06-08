@@ -1,5 +1,5 @@
 import React, { useState, useEffect }  from "react";
-import { Route, Switch } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import './app.css';
 
 import Header from "./header";
@@ -17,14 +17,15 @@ export default function App() {
     return () => clearInterval(timer);
   });
   
+  //background from https://bgjar.com/
   return (
-      <main className="main">
+      <main className="main" style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/background.svg'})`   }}>
         <Header/>
-        <Switch>
-            <Route path="/" component={Library} exact />
-            <Route path="/playlist" component={Playlist} />
-            <Route component={Error} />
-        </Switch>
+        <Routes>
+            <Route path="/" element={<Library/>} exact />
+            <Route path="/playlist" element={<Playlist/>} />
+            <Route element={<Error/>} />
+        </Routes>
       </main>
   )
 }
